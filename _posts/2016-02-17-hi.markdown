@@ -12,3 +12,7 @@ And write in print my goals for the next two weeks - and write a recap at the en
 The overall goal of this year is to write more. Leave my mark. Stop being invisible. 
 
 First things first, getting these words on the web.
+
+*Edit*
+
+Well, the website uploads posts, but I'm not sure about the static stuff (metadata).
