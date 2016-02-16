@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Hi"
+date:   2016-02-17 08:07:00 +1100
+categories: first
+---
+OK, so its Feb 17th already. What does that mean? It means its time to move.
+
+By end of business today, I'd like to sort out the basic formatting of this site.
+And write in print my goals for the next two weeks - and write a recap at the end of the month.
+
+The overall goal of this year is to write more. Leave my mark. Stop being invisible. 
