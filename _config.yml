@@ -8,7 +8,7 @@
 # Site settings
 title: 'andwaa'
 #email: your-email@domain.com
-description: 'This is a collection of thoughts and ideas that come to me, usually about games, sometimes about life.'
+description: 'This is a collection of thoughts and ideas that come to me, usually about tv, games and pop culture, sometimes about life.'
 baseurl: "/web" # the subpath of your site, e.g. /blog
 url: "http://andwaa.github.io/web" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
