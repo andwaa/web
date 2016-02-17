@@ -16,3 +16,4 @@ url: "http://andwaa.github.io/web" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+permalink: /linked/:year/:month/:day/:title
